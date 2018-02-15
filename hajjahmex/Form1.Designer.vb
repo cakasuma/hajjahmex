@@ -43,7 +43,7 @@ Partial Class Form1
         Me.ClientSize = New System.Drawing.Size(301, 244)
         Me.Controls.Add(Me.PictureBox1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        'Me.Text = "Form1"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
